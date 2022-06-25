@@ -1,0 +1,16 @@
+git push origin : dev                >>>remotely
+git branch -d dev               >>>local
+
+
+list tags :
+git tag
+
+delete tags :
+
+>>>>To delete remote tag
+git push origin --delete tagname 
+
+
+>>>>To delete local tags
+git tag -d tagname
+
