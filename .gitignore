@@ -1,2 +1,2 @@
-# Ignore all SQLite databases
-LAB2DAY2/*.txt
+cache/
+logs/*.log
